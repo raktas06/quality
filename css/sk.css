@@ -1,0 +1,76 @@
+.wrapper {
+/*	width: 900px;
+	margin: 0 auto;*/
+}
+.heading {
+	text-transform: none;
+}
+.rob {
+	font-family: 'Roboto Condensed';
+}
+.card.is-half {
+  width: 50%;
+}
+.content.is-small {
+  font-size: 12px;
+}
+a {
+  color: #3273dc;
+}
+.content a:not(.button):visited {
+	color: #3273dc;
+}
+.content a:not(.button) {
+  border-bottom: none;
+}
+.example, .structure, .grafik, .tablo {
+    border: 1px solid #ffdd57;
+    border-top-right-radius: 3px;
+    color: rgba(0, 0, 0, 0.7);
+    padding: 1.25rem 1.5rem;
+    position: relative;
+}
+.grafik, .tablo {
+    border: 1px solid #ddd;
+}
+
+.example:before, .structure:before, .grafik:before, .tablo:before {
+    background: #ffdd57;
+    border-radius: 3px 3px 0 0;
+    bottom: 100%;
+    /*content: "Grafik / Tablo";*/
+    display: inline-block;
+    font-size: 7px;
+    font-weight: bold;
+    left: -1px;
+    letter-spacing: 1px;
+    padding: 3px 5px;
+    position: absolute;
+    text-transform: none;
+    vertical-align: top;
+}
+
+.grafik:before {
+    background: #ddd;
+    content: "Grafik";
+}
+
+.tablo:before {
+   background: #ddd;
+   content: "Tablo";
+}
+.progress.is-mini {
+	height: 0.25rem;
+  margin: 10px 0;
+}
+.fut {
+	background-color: #f1f1f1;
+}
+
+html ::-moz-selection {
+  background: #363636;
+}
+
+html ::selection {
+  background: #363636;
+}

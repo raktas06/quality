@@ -1,0 +1,1 @@
+var textForPages =["ACADEMIC http://academic.unyt.edu.al/ Info Password Change ","Supervisory Enrollment Confirm Student Attendance ","Courses Grade Entry Messages "];

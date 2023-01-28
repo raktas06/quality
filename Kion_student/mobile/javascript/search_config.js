@@ -1,0 +1,1 @@
+var textForPages =["STUDENT http://students.unyt.edu.al/ Informations Supervisor Information ","Student Information Transcript Course Attendance Info ","Evaluation Survey Petition Form Payment Plan "];

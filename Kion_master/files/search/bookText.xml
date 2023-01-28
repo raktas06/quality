@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="utf-8"?><Search><pages Count="104"><page Index="1" isMAC="true"><![CDATA[  KION COMPUTER INFORMATION SOFTWARE IND. VE TİC. LTD. STI. SOFTWARE DEVELOPMENT UNIT
+UNIVERSITY OF NEW YORK TIRANA
+SOFTWARE GUIDE
+www.kion.com.tr
+     KION Computer it Software Industry. ve Tic. Ltd.Şti .
+Yıldız Technical University Davutpaşa Campus Technology Development Zone D2 Block K:1 No: D21B09 Esenler- Istanbul / TURKEY
+info@kion.com.tr
+TEL ISTANBUL +90-212-777 12 17
+]]></page><page Index="2" isMAC="true"><![CDATA[  Contents
+SMS (ADMIN)................................................................................................................................................ 4
+Login the system ...................................................................................................................................... 4
+Student ..................................................................................................................................................... 4 STD01 Student Search ............................................................................................................................................................. 4 STD02 Student Registration..................................................................................................................................................... 8 STD03 Courses Taken by Students .......................................................................................................................................... 8 STD05 Advisor Assignment................................................................................................................................................... 10 STD04 Student Discipline ...................................................................................................................................................... 11 STD07 History Search............................................................................................................................................................ 11 STD08 Detailed Search .......................................................................................................................................................... 13 STD13 Student Health Information........................................................................................................................................ 13 STD12 Course Plan Assignment ............................................................................................................................................ 14 ENR03 Registration Renewal................................................................................................................................................. 15 STD18 Student Attendance .................................................................................................................................................... 16 MNY02 Payment Plan and Installment .................................................................................................................................. 17
+Course .................................................................................................................................................... 31 CRS01 Course Catalog........................................................................................................................................................... 31 CRS02 Course ........................................................................................................................................................................ 36 CRS03 Academic Year Course .............................................................................................................................................. 41 CRS04 Course Registration Status ......................................................................................................................................... 55 CRS05 Student Section Assignment ...................................................................................................................................... 56 CRS06 Bulk Course Assignment ........................................................................................................................................... 56 CRS07 Curriculum ................................................................................................................................................................. 57 CRS10 Course Load Assignment ........................................................................................................................................... 59 GRD04 List of Students whose Grade Is Not Entered ........................................................................................................... 61 CRS08 Student Course Deletion/Transfer.............................................................................................................................. 61
+Faculty Member ..................................................................................................................................... 62 TCH01 Faculty Member Assignment..................................................................................................................................... 62
+Report..................................................................................................................................................... 62 RPR01 Quota Report.............................................................................................................................................................. 62 RPR02 Lecture Class Report.................................................................................................................................................. 63 RPR03 Course Quota Report.................................................................................................................................................. 63 RPR09 Student Numbers Report ............................................................................................................................................ 64 RPR12 Course-Based Success Report.................................................................................................................................... 64 RPR18 Advanced Inquiry ...................................................................................................................................................... 65
+Assignment............................................................................................................................................. 65 1
+]]></page><page Index="3" isMAC="true"><![CDATA[  DEF03 Announcement ........................................................................................................................................................... 66 DEF08 Faculty / Department / Option ................................................................................................................................... 66 CAL01 Calendar Entry........................................................................................................................................................... 69 DEF10 Document Assignment............................................................................................................................................... 71 DEF11 Curriculum Assignment ............................................................................................................................................. 72
+Authority Assignment ............................................................................................................................ 76 DEF02 Role............................................................................................................................................................................ 76 DEF07 User............................................................................................................................................................................ 76
+Institute................................................................................................................................................... 77 INS01 Advisor Appointment.................................................................................................................................................. 77 INS02 Thesis and Thesis Exam Information .......................................................................................................................... 77 INS03 Ph.D. Qualification Information ................................................................................................................................. 78 INS04 PhD Thesis Proposal and Thesis Monitoring Reports................................................................................................. 78 INS05 Exam Tracking............................................................................................................................................................ 79 INS06 Thesis Lists ................................................................................................................................................................. 79
+Diploma Procedures ............................................................................................................................... 80 DIP02 Temporary Graduation Certificate/Diploma ............................................................................................................... 80 DIP04 Diploma Book ............................................................................................................................................................. 80
+Petition ................................................................................................................................................... 81 DEF11 Document Requests ................................................................................................................................................... 81
+My information ...................................................................................................................................... 82 INF07 Password Change ........................................................................................................................................................ 82
+SMS (STUDENT) ......................................................................................................................................... 82
+Login to the system ................................................................................................................................ 82
+My information ...................................................................................................................................... 83 INF01 Advisor Information.................................................................................................................................................... 83 INF02 Student Information .................................................................................................................................................... 83 TRN01 Transcript .................................................................................................................................................................. 84
+My courses ............................................................................................................................................. 84 CRS08 My Grades ................................................................................................................................................................. 84 INF08 My Curriculum............................................................................................................................................................ 85 STD18 Course Attendance Information ................................................................................................................................. 86
+General Information ............................................................................................................................... 86 INF03 Department Information.............................................................................................................................................. 86
+Questionnaire ......................................................................................................................................... 86 SUR02 Evaluation Questionnaire........................................................................................................................................... 86
+Registration ............................................................................................................................................ 87
+]]></page><page Index="4" isMAC="true"><![CDATA[  ENR03 Registration Renewal................................................................................................................................................. 87 MNY03 Payment Plan............................................................................................................................................................ 89
+Petition ................................................................................................................................................... 90 PET04 Document Request ..................................................................................................................................................... 90
+Message.................................................................................................................................................. 90 UTL04 My Messages ............................................................................................................................................................. 90
+SMS (INSTRUCTOR) .................................................................................................................................. 91
+Login to the system ................................................................................................................................ 91
+My information ...................................................................................................................................... 91 INF05 Password Change ........................................................................................................................................................ 91
+Student ................................................................................................................................................... 92 STD05 Advisor ...................................................................................................................................................................... 92 ENR03 Registration Approval ............................................................................................................................................... 93 STD18 Student Attendance Information ................................................................................................................................ 96
+Course .................................................................................................................................................... 96 CRS07 My Courses ................................................................................................................................................................ 96 GRD01 Grade Entrance.......................................................................................................................................................... 98
+Message................................................................................................................................................ 102
+]]></page><page Index="5" isMAC="true"><![CDATA[   SMS (Admin)
+Login the system
+Login address to the system is ................ In order to log in to the system, an e-mail address or username must be written in front of the Student No field in the window that opens when the Login button is pressed. Login to the system must be with the new password received from the admin manager. It is strongly recommended to change the password when logging in for the first time.
+ Student
+STD01 Student Search
+Figure 1Login to the System
+ Purpose and Scope: It is an application where students are listed/searched according to different criteria, their information is displayed, updated, deleted, documents (bulk/individually) printed, a new student assignment is made, and student information can be copied to another student.
+Explanation:
+It is possible to search/list students according to certain criteria. Following documents can be obtained in bulk for the listed students. Below tasks could be conducted via 'Reports' button.
+Bulk Student Certificate, Bulk Transcript,
+]]></page><page Index="6" isMAC="true"><![CDATA[   Student Duplication
+Display std01-0
+It is the process of transferring the student information selected from the list to another student. Adding new students (with ' new ' button)
+After compulsory fields are entered, student is registered. (with ' Save ' button)
+Points to pay attention:
+Student's first status information must be assigned with the 'History of Major ' in the ' History ' tab. If there is a regulation and a teaching plan (optional), it should be selected.
+Viewing/updating student information (with ' update ' button)
+Display std01-02
+Student’s faculty/department, if any, option, class, education year (how long s/he has been registered at the university), the year and term s/he registered in the university, the quota s/he registered in the university, the scholarship status if s/he received a scholarship from OSYM, his/her advisor, graduation
+ ]]></page><page Index="7" isMAC="true"><![CDATA[  date, diploma information can be viewed/updated.
+Deletion of a Student (Can be done if a student's course is not available)
+Changing the Student Number (Can be done if a student's course is not available)
+Changing the Faculty/Department of the Student (Can be done if a student's course is not available) The following information of the student can be viewed/updated with the help of the tabs at the top of the application.
+ID Registry and Military Service
+Communication
+High School and ÖSYM
+Loan Information
+Display std01-03
+Updating the information received from the Credit and Dormitories Institution (with the tui10 'update your account information' application under the Tuition Operations menu) is done in bulk on a university basis. Apart from this, cases such as 'exemption from tuition' are selected from the student loan section, or students who fall within 10% are registered in the system at the beginning of each semester. At the beginning of each semester, the '10% entry' information of students who entered 10% should be deleted in bulk on a university basis (with tui06 ' calculation of tuition information' application’ under the Fee Operations menu).
+Foreign Language
+Foreign Nationality
+This is the section where foreign students’ private information is kept.
+Branch Information
+Double Major / Minor Program information is kept.
+History
+Major history
+Double Major's history (regardless of the major, the student's status is followed separately)
+Minor history (regardless of the major, the status of the student is followed separately)
+Other
+Scholarship History (Scholarships given by universities or other institutions/foundations are tracked in this section. Granted/withdrawn cases are kept on a semester-date basis)
+Institute
+It is the tab that is active for the students at the institute, the information for the students of the institute is displayed.
+Other
+It is the section where the student's other information is kept.
+Documents
+ ]]></page><page Index="8" isMAC="true"><![CDATA[  This is the section where the following standard documents are obtained on a student basis. Student certificate
+Military Service Certificate Institute Military Service Certificate Transcript
+Report Card (Summary Transcript) Foreign Student Information Form Graduation Certificate
+Language Proficiency Document History Transactions: Explanation:
+History information comes in order from the most recent date to the farthest date, the latest student status date shows the current status of the student on the Main Enrollment page. In summary, the most recent status is the current status of the student.
+History is the information held to monitor student status changes on a Term-by-Term basis. The student must have at least one enrollment per semester. The student's history: in case of enrollment renewal, if the consultant approves it online, the ' Enrollment Renewed' information is automatically added to the relevant period. At the end of the registration period, students who do not register for the course with the ' std07 History Search' application are assigned the ' Registration Not Renewed' record. In other cases, student affairs must manually add status changes to the history with the help of this application. The accuracy of the historical information affects some documents such as 'Military Service Certificate' and statistics. The case of not renewing the registration is important in the student certificate and military service certificate. (Because they can't benefit from student rights)
+Display std01-04
+ ]]></page><page Index="9" isMAC="true"><![CDATA[  When it is desired to add a new status to the major history (with the ' new' button), ' Student Status' must be selected on the screen. In cases such as 'Deregistration ' or ' Registration Deletion ', the reason in detail can be selected from the list below.
+the 'Registration Freeze' is made for two academic terms; history information must be entered for two academic semesters.
+University information (by pressing '...') is entered for incoming/outgoing students with lateral transfer, incoming/outgoing students with Erasmus /Farabi, and incoming/outgoing students with summer school. If there is no university name in the list, it can be written in the blank area under the University section. If this information is entered, it will be shown on the transcript from which university the student came with a lateral transfer or to which university he went with Erasmus.
+Student's ' Registration Deletion' or ' Graduation Procedures' are done with the help of this application in a similar way. In this case, the student's 'Graduation/Departure Date' is updated. (See Screen std01- 02)
+STD02 Student Registration
+Purpose and Scope: It is the application used during the first registration to the university. The last status: 'The one who won the university but has not registered yet' The first registration process for students is provided with the help of this application by completing all the documents and procedures of the student.
+Explanation: With this application, the record of registration is added to the student's history information and the first registration date of the student to the university is updated. A similar operation can be performed with the help of ' STD01 Student Search’, but this application has been developed so that the operation can be done faster with a single button. In the same application, it is possible, if needed, for student certificate and military service certificate to be obtained.
+During enrollment to the university, if this program is used up to date, the Number of Students Registered in the University can be tracked properly. (From ' STD01 Student Search' or 'RPR01 Quota Report' under the Reports menu)
+Display std02-01
+STD03 Courses Taken by Students
+Purpose and Scope: It is an application that allows students to display their courses in all semesters, assign new courses, and correct/enter their grades on a course basis. The exemption information or the results of the grade objections of the students coming with the lateral transfer are processed with the
+        ]]></page><page Index="10" isMAC="true"><![CDATA[  help of the same application. On a student basis, flexibility of the courses or associating another course instead is also done in this section.
+Explanation:
+Listing is made from the most recent semester, in practice, all courses taken by the student are listed based on semesters.
+Save code in the list:
+If 'I', Student has been enrolled on the Internet and the Advisor has given approval,
+If 'B', Registrar's Office has manually assigned this course to the student,
+If 'E', Student has already taken this course with Erasmus,
+' ' (blank) means that Student has enrolled online but Advisor has not approved. The student is not enrolled for this course. These courses are not shown on the transcript.
+Web -based course registrations (student/advisor approvals) are reflected in real-time on students' courses and class lists.
+The ' repeated course ' information in the list is used to indicate that a student’s new course has been taken in place of a course taken previously. This association is done with the ' STD03 Courses Taken by the Student ' application. Aim in general is that it is possible to associate lessons with a particular student, except for the case that the lesson is removed and another lesson is opened in its place. For example, taking another course in place of an elective. As a result of this association, the name of the associated course is shown in parentheses next to the relevant course on the transcript and the second course is not reflected in the credit totals. Below, as an example, the status of failing a course and the course information taken instead are shown.
+Display std03-01
+' update' button is pressed, the screen where the update/deletion is made opens.
+If the grade for the course is entered, ' deletion' is not allowed, the grade must be cleared first and then deleted.
+In case the course is combined with another course, the information can be viewed by clicking the ' Joint Branch Information' button.
+' new' button is pressed, the screen where the addition/update/deletion is made opens.
+' Flexible courses’:
+All flexible courses belonging to the student are listed.
+        ]]></page><page Index="11" isMAC="true"><![CDATA[  The flexible course assignment is used to show which course the student took in Erasmus corresponds to which course in their curriculum. When this assignment is made, the course whose equivalent is assigned in the list of courses to be taken by the student is not displayed during course registration on the web. While a course can be the equivalent of more than one course; more than one course can be a ‘flexible ones’ of a course, as well. In the example below, a course taken in Erasmus is assigned as flexible with a course in the curriculum.
+Display std03-02
+'Teaching plan' to which the student is attached (if there is no teaching plan, all courses opened in the department are shown), it shows the relation between the courses and the courses taken. It can be seen from this list which course the student has taken/not taken.
+' Report card' and ' transcript' can also be viewed from this app.
+STD05 Advisor Assignment
+Purpose and Scope: It is an application in which students are assigned advisor information in bulk. Incase an advisor is not assigned and students who do not have advisor information, or if the advisor leaves, another advisor is assigned in bulk after the relevant students are listed.
+Explanation: Advisors can be assigned on a class basis or for students who are enrolled in the university for the first time. In addition, the ' STD01 Student Search' application can be used to view/change advisor information on a student-by-student basis. This application has been developed to facilitate the process of assigning advisors to students.
+  ]]></page><page Index="12" isMAC="true"><![CDATA[   Screen std05-01
+ STD04 Student Discipline
+Purpose and Scope: Displaying/listing and recording of the disciplinary punishment taken by the students is done with this application.
+Explanation: When A student's disciplinary action is entered into the system, the ' Std01 Student Search-Enrollment Information' screen starts to appear as 'There is’ a disciplinary punishment. In addition, there is a disciplinary punishment for the student is displayed in the transcript.
+Screen std04-01
+STD07 History Search
+Purpose and Scope: According to the historical information of the students, the list of students who froze their registration in the past / who were not registered / who did not re-register is made with the help of this application. At the end of the Course Registration Calendar, the status of ' registration not renewed' is recorded in the history of the students who are not registered in the history (at the end of the excused registrations) and who are not registered for any course.
+     ]]></page><page Index="13" isMAC="true"><![CDATA[  Explanation: The information entered in the ' STD01 Student Search – History (Major) ' section can be listed in bulk.
+ Screen std07-01
+The following method is followed to check whether a student has at least one registration for each academic term.
+v 'Student Status: Registered’ is selected, 'Students who are not registered in the history' option is checked and students with 'No Course Assigned' option are listed.
+v After the list is checked (it may be useful to store a list in excel)
+v ' Process History ' button is pressed, the student's history will be processed in bulk as shown below: 1) Student Status Date, 2) Explanation, and 3) Status 'NOT REGISTERED' is selected and the 'Continue' button is pressed. This process should be
+done very carefully as it will reflect on students' history information.
+ Screen std07-02
+Similarly, 'Students not registered in history' option is checked and students with 'Course assigned' option are listed. If there is no problem after the list is checked, the status of ‘REGISTERATION RENEWED’ is assigned to students in bulk.
+NOTE: Another purpose of this application is that in order to prevent online course enrollment, the status information of 'REGISTERATION RENEWED’ is assigned to the active term in the history of newly registered students. Students who have 'REGISTERATION RENEWED’ status in their history when registering courses from the web are automatically closed, and these students are prevented from executing action.
+]]></page><page Index="14" isMAC="true"><![CDATA[   STD08 Detailed Search
+Purpose and Scope: It is an application that allows students to search flexibly according to different search criteria and conditions and to list/query with the requested information.
+Reporting processes include the processes of listing the data in the system according to certain criteria and according to certain display areas of the institution.
+There are two types of Report formats.
+Saved reports; These are the reports registered in the continuous field in the system.
+Reports according to user request; Specifying certain criteria and receiving certain display information.
+It is an application that allows flexible searching and listing/querying with the requested information according to different requests, search criteria and conditions in student affairs.
+Some basic search criteria and listing are available on many screens, but detailed and comprehensive execution is provided by this application.
+Query Filters: You can make basic selections using query filters. After the selection, the detailed information of the group is uploaded to the list next to it.
+Logical conditions such as Equals/Not Equals, Max, Min are selected. Finding the columns in the database tables in the display areas of the required ones.
+Display Areas: we select the fields we want to list and add them by clicking.
+When we press the query button, the list appears on the screen.
+Excel key: we can export the list to excel.
+Save Query Filters; It is used to save custom reporting queries that are used continuously. Finding the columns in the database tables in the display areas of the required ones.
+Install Query Filters, Installing unsaved query filters. STD13 Student Health Information
+Purpose and Scope: It is an application where information about the health status of students is processed. Disability Status, Disability Rate, Health Insurance information can be processed in detail.
+Explanation: The disability type information of new students who get into university is automatically reflected here. If the student's disability rate is entered, this rate is considered in the fee calculations.
+  ]]></page><page Index="15" isMAC="true"><![CDATA[   Display std13-01
+ Screen std13-02
+ STD12 Course Plan Assignment
+Aim and Scope: If 'Course Plan' (Curriculum) is assigned in the departments of the students, the assignment of the course plans to the students is done with the help of this application.
+Explanation: 'Course Plan' (Curriculum) is an assignment used to assign it as a different curriculum when changes occur in the courses in a department and to follow the course changes separately. How these processes are done is explained in the 'CRS02 Course ' application.
+When a student is registered, the course plan should also be assigned to the student (if there is a teaching plan in the department), like the assignment of the regulation to which it is attached. With the 'STD01Student Search' application, this process can be done individually on a student basis, or it can be done in bulk with the ' STD12 Course Plan Assignment ' application.
+]]></page><page Index="16" isMAC="true"><![CDATA[   Display std12-01
+ ENR03 Registration Renewal
+Purpose and Scope: It is the application where the course registration process for the current semester is done by student affairs. It performs the same functions as an advisor's course registration confirmation screen. It can be used to register students with excuses.
+Explanation: With the 'STD03 Courses Taken by the Student' application, a course can be assigned to a student for the relevant semester, and this application is used by student affairs to facilitate this process. More than one course can be assigned to a student at once. It has the same functions as the advisors' course confirmation screen. The registration code of the courses assigned to the student will be 'B' and the student registration renewal record will be assigned to the history.
+Display enr03-01
+ ]]></page><page Index="17" isMAC="true"><![CDATA[  STD18 Student Attendance
+Student Attendance Screen
+In order to add student attendance to the system, Student > Student Attendance screen is opened from the left menu. On the screen that opens, Faculty, Department, Class, Academic Year and Academic Term fields and courses are listed.
+Among the listed courses, the course to which the absenteeism record will be entered is selected.
+An absenteeism record is entered in bulk for each student for the selected course, either individually or by clicking the 'Update All Unattended' or 'Continuously Update All' buttons. Absences are exported from the system with the "Report" button.
+   ]]></page><page Index="18" isMAC="true"><![CDATA[  In order to add the attendance record for the student, it is sufficient to click on the student twice. For detailed operation, click on the "Update" field next to it, select the check mark in the "Continue" column, and then select the "Apply" button. If the student is to be deemed to be on leave, the "On Leave" field is marked, and if the student has a medical report, the check in the "Sick Leave" field is marked.
+MNY02 Payment Plan and Installment
+Payment Plan and Installment Transactions
+The following operations are performed in the system via the Finance Module.
+• Assignment of tuition fees for departments
+• Calculation of scholarships
+• Application of scholarships in tuition fees
+• Creation and installment of payment plans, management of additional fees and debts
+Tuition Fee Assignments
+To access the Finance module, the student > Payment Plan and Installment menu is selected.
+The first screen in the menu that opens is the Tuition Fee Assignment screen. On this screen, tuition fees are listed according to academic years based on faculty - department. The listed tuition fees can be exported to Excel with the 'Export to Excel' button. A selected fee assignment can be deleted from the system with the "Delete Fee" button.
+ ]]></page><page Index="19" isMAC="true"><![CDATA[   To add a new tuition fee to the system, the "Add Tuition Fee" button is selected. After the relevant information is entered on the screen that opens, the tuition fee is assigned in the system. This information:
+• Academic Year > For which academic year the fee will be valid
+• Faculty – Department – Option > For which department the fee will be applied1
+• Quota Type > For which quota types the fee will be valid
+• Currency > In which currency the fee will be paid
+• Fee Type > Type of fee generated
+• Quantity > Value of the fee in units
+  1Note: If the student has more than one department, tuition and scholarship can be assigned.
+]]></page><page Index="20" isMAC="true"><![CDATA[  Student Scholarship Assignment
+In order to assign a scholarship for the student, the student card is accessed by selecting the relevant students on the Student Search screen. The Scholarship History screen is accessed. To add a new scholarship specific to the student, the "New" button is selected.
+Detailed information about the student scholarship is assigned and recorded on the opened field.
+• Academic Year > From which date the scholarship will be applied
+• Academic Term > From which term the scholarship will be applied
+• Date > The date of grant of the scholarship
+• Scholarship Type > Scholarship category
+• Scholarship Status > Status of the scholarship given
+• Quota Type > For which quota types the scholarship will be valid
+• Value Type > Whether the scholarship is awarded in percentage or amount
+• Amount > Scholarship value
+• Effective Date > Until what date the scholarship will be valid
+• explanation
+Scholarships registered to students will be listed on the Scholarship Calculation screen and will be applied as a discount when calculating tuition fees.
+ ]]></page><page Index="21" isMAC="true"><![CDATA[  Student Scholarship Listing
+When the scholarships of all students in the system are to be listed, the "Scholarship Calculation" tab is opened. On the screen that opens, it is possible to list by academic year, faculty and department, as well as by entering the student number. This screen is used to list student scholarships only.
+Student Tuition Fee Calculation
+After the tuition fees and student scholarships are assigned, the "Tuition Fee Calculation" screen is opened to calculate the fixed price tuition fees of the students.
+  On the screen that opens, the tuition fee can be calculated and saved in terms of academic year, faculty, department and student number. After the needed filters are assigned, the "Calculate Tuition Fee" button is selected. The system creates the tuition fee by calculating the assigned fees and scholarships for the students who are eligible for the filtered set. The calculation is saved by clicking the “Save Tuition Fee” button.
+]]></page><page Index="22" isMAC="true"><![CDATA[  Payment Plan and Installment
+The following operations are performed on the Payment Plan and Installment screen:
+• Listing of final fees for students
+• Creating a payment plan by making installments for each fee of the students
+• Addition and installment of additional fees to students
+• Adding student payment records to the system
+• Generating the Student Payment Report file
+Student Fee and Debt Listing
+Payment Plan and Installment screen opens, information can be listed according to academic year, faculty, department and student number. The data produced in the list can be exported with the 'Export to Excel' button.
+ ]]></page><page Index="23" isMAC="true"><![CDATA[   Debt Clearing
+When any row is selected from the list, it is automatically colored yellow. Debts whose payment have been completed are shown in blue. The diet record can be deleted by clicking the "Delete" button for the selected line. 2After using the delete button, the process is completed with the "Save Changes" button at the bottom.
+2 Note: If any payment record is assigned for the debt record, the debt cannot be deleted.
+  ]]></page><page Index="24" isMAC="true"><![CDATA[  Adding Debt
+In order to assign additional fees for the selected student, the “Debt Transactions > Add Debt” button is selected.
+On the screen that opens, the relevant additional fee assignments are added to the system. These are, in order:
+• Academic Year > For which year the fee is added
+• Quota Type > For which diploma program the additional fee is added
+• Currency > In which currency the fee will be paid
+• Debt Type > Additional fee type
+• Amount > Value of the fee
+• explanation
+Installment Transactions
+If it is desired to make installments for a student debt, first, it should be noted that there is no collection related to that debt. The system does not perform installments for collected debts. After selecting any student debt, the following operations can be performed for the relevant registration via the "Installation Transactions" menu:
+• Creating Installments
+• Arranging Installments
+• Deleting Installments
+ ]]></page><page Index="25" isMAC="true"><![CDATA[  To create an installment, the relevant student fee is selected, the "Installation Transactions - Create Installment" button is selected, and the relevant information is assigned on the screen that opens.
+The necessary information to create an installment is as follows:
+• Installment Start Date > On which day the first installment will be collected
+• Number of Installments > How many installments the debt will be divided into
+• Period Interval > How many monthly installments will be paid
+  ]]></page><page Index="26" isMAC="true"><![CDATA[  After the installment information is assigned, the installment table to be created is checked with the "Preview" button, and the installment process is performed with the "Save" button.
+When an installment is created for any fee, the installment details can be displayed as in the image below.
+When you want to arrange for an existing installment, the "Installation Transactions - Examine Installment" button is selected. All values such as installment amount, number of installments and installment date can be changed on the screen that opens. 3On the screen that opens, the installment values can be changed, as well as the number and period of installments to re-create the installment table. In case of changes in this information, the system updates the installment table by preserving the paid record and the total amount.
+   3Only the values of any installments that have been paid cannot be changed.
+]]></page><page Index="27" isMAC="true"><![CDATA[   As in the image below, when the information is changed, the important thing is that the total amount matches the current debt amount.
+]]></page><page Index="28" isMAC="true"><![CDATA[   Adding a Student Payment Record
+When the collection information of any selected debt is wanted to be added to the system, the "Add Payment Record" button is selected on the "Payment Transactions" menu. On the screen that opens, if the debt is a debt with installments, direct installment is selected.4
+  4If a payment record is wanted to be added for a debt that has been collected, the system does not allow it.
+]]></page><page Index="29" isMAC="true"><![CDATA[   After defining the detailed information about the selected installment collection, the payment registration is completed.
+ ]]></page><page Index="30" isMAC="true"><![CDATA[  This information is:
+• Payment Type > EFT, Money Order, Cash
+• Payment date
+• Receipt Number • explanation
+A paid installment is shown in a green tint.
+Student Collection Deletion
+In order to delete a collection that has been made, the "Payment Transactions - View Collection" button is selected. With the "Delete" button next to the collection on the screen that opens, the collection is deleted and saved.
+Once a collection is cleared, the checks associated with that debt will be removed, so editing and debiting will also be possible.
+  ]]></page><page Index="31" isMAC="true"><![CDATA[   Creating a Payment Report
+The "Payment Transactions - Generate Payment Report" button is selected to receive the report used by the university regarding the student's payments from the system on a student basis. Payment report can be created and exported according to the current format in the system.
+  ]]></page><page Index="32" isMAC="true"><![CDATA[   Course
+Under the Course tab (Course Catalogue, Course, Academic Year Course, Course Registration Status, Student Section Assignment, Grade Entry, List of Students whose Grade Was Not Entered, Successful Student Grade Upgrade, Course Bulk Assignment, Student Course Deletion/Transfer, Course Schedule, Course Load ) displays the use of the screens.
+CRS01 Course Catalog
+Aim and Scope: In the Course Catalogue, such operations are available.
+§ Add/update/delete courses
+§ Prerequisite assignment
+§ Listing under which sections the course is assigned
+§ Linking the courses under the department to another course in the catalog if needed
+Explanation: The assignment of information such as 'course code, name, foreign language, ects credit, theoretical, practical, application and credit' is provided with the help of this application. The departments assign the offered courses with the help of course catalog information. They cannot change course information on a departmental basis. The authority to update courses from the course catalog belongs to the departments that use the course catalog. Closing a course in the course catalog does not close the courses under it. The faculty/department and the instructor responsible for the course are for information purposes only.
+The courses taken by the students during Erasmus are also assigned in the catalogue, and the status of the courses is selected as 'taken outside the university’. Erasmus courses are also assigned in the 'CRS02 Course ' application. Erasmus courses are assigned to students with the ' STD03 Courses Taken by the Student ' application. Thus, it is ensured that the courses are displayed with their original names in the Transcript and Diploma Supplement.
+Through the List function, 'On/Off' or 'All courses' can be searched by 'Course Code' or 'Name'. Course Catalog application filtering section:
+Display crs01-01
+     ]]></page><page Index="33" isMAC="true"><![CDATA[  'Catalog No' courses can be used as a distinguishing information from each other. After the courses are listed (the courses listed in gray show closed courses), press the 'update'/'new' button, and the screen showing the details of the course information is displayed. The 'Foreign Language Name' of the course can be entered with the ' Languages ' button next to the Name field. In the new course assignment, the Turkish name of the course should be registered, and then the foreign language name should be entered.
+Display crs01-02
+In addition, 'Course Name' can be assigned separately for all languages supported by the system. The course name assignment according to the language is accessed via the 'Languages' button in the Course Name assignment field.
+' Catalogue Courses:
+Information about courses linked to a catalog can be accessed from the catalog courses page. It is used to list under which sections the course is assigned. If needed, the courses listed can be linked to another course in the catalog. For this, the relevant course is selected, the ' Change Catalog ' button is pressed. Here, the relevant course is selected from the catalogue. For example, in order to merge the courses that we think are the same course under a single catalogue, this process can be done for each course to be merged. It should be noted here that the course code, name, credit information of the courses will change and will affect the transcripts taken in the past.
+Faculty, Department, Class information of the courses can be viewed here. The detailed information of the course can be accessed by using the Update button.
+'Course Information’: Used to return to the previous detail screen. The catalog information button is not used.
+     ]]></page><page Index="34" isMAC="true"><![CDATA[   'Update’:
+Screen crs01-03
+Here you can see detailed information about the course catalogue. Credit information such as Theory, Practice, ECTS credits in the 'Course Code', 'Course Name' and 'Credit' information in the assignment information are valid assignments for all courses linked to this catalogue.
+'Normal Selection’:
+Course selection in the course catalog is made on a course basis by selecting each course from the list. The method can be changed with multiple selection.
+'Multiple Choice’:
+In the course catalogue, the process is done by selecting the courses one by one. Multiple Selection feature provides the selection of the specified courses or all of them. Selection can be made on a course basis by selecting Select All or ticking the box in the left corner of the course.
+ ]]></page><page Index="35" isMAC="true"><![CDATA[   'Open a Common Course’:
+Determined courses; It is used in the ' ' application to be opened in bulk as 'University Common/Department Common’. Otherwise, in the ' application, the courses will have to be assigned individually as ' University Common/Department Common’
+Courses assigned in the course catalog can be transferred to Excel (Turkish/English). Prerequisite courses can be listed separately.
+ crs02 – Course Assignment
+ crs02 – Course Assignment
+   ]]></page><page Index="36" isMAC="true"><![CDATA[   ' Prerequisite Courses’:
+The prerequisite assignment given to the course in the course catalog means that it is valid for every section in the curriculum in the ' crs02 – Course Assignment ' application. That is, if the prerequisite assignment for B course is to pass the A course, and it is valid for all faculties, it is necessary to assign the prerequisites from the catalogue. If there is a different prerequisite assignment than ' crs02 – Course Assignment for the same course, the assignment in the course plan will be valid for that department.
+In the case of such a situation, If the prerequisite assignment of B course is valid only in A, B, C faculties, but if prerequisites are not needed in other faculties, it would be appropriate to make the prerequisite assignment from the ' crs02 – Course Assignment ' application.
+During course registration, if the student does not meet the prerequisite for a course, he will not be able to enroll in the course. In the prerequisite assignments, Condition: could be 'and' 'or' or options such as passing the course or taking the course can be selected as prerequisites.
+'Elective Pool Courses':
+If it is needed to create elective course groups, the online pool course in which the elective courses are included should be assigned. When registering this course from the Course Catalogue, make sure that the Elective Course Group: 'Yes' option is selected.
+    ]]></page><page Index="37" isMAC="true"><![CDATA[   For example, if a student from the PSYCE 001 group has to take 3 elective courses; Three elective course groups should be assigned as PSCYE 001, PSCYE 002, PSCYE 003. The content of each group; It will be determined by the ' crs02 – Course Assignment ' application.
+CRS02 Course
+Purpose and Scope: Defining the courses taught under the department (information such as the class / term / whether the course is compulsory / whether it will be shown in the transcript / whether it will be included in the average), creation of elective course pools, removal of the course, determination of which course will be opened instead of the course. It is the application where extensive operations such as connecting to the 'plan' (a curriculum, if any) are made. In addition, if the course has a prerequisite or equivalent course, it can be assigned with this application.
+Explanation: After the courses assigned under a faculty/department are listed (Gray courses are closed courses), English/Turkish course names can be listed as Excel/Pdf.
+   ]]></page><page Index="38" isMAC="true"><![CDATA[   Display crs02-01
+' update'/'new' button, the screen showing the details of the information opens.
+Screen crs02-02
+Inclusion of the course in the course plan:
+If the Faculty Department Course Plan (Curriculum) has previously assigned a curriculum under the department (Def11), these assignments are displayed. If a course is not assigned under a course plan (in the right section), it is a course for which all students are responsible. (Listed in course registrations). If ' CRS02 Course Assignment belongs to a single course plan as in the -02 screen, it is a course that students subject to this course plan are responsible for. Press the ' add ' button to add the lesson under the course plan, and the ' delete' button to remove it.
+Reflecting course changes to the system:
+  ]]></page><page Index="39" isMAC="true"><![CDATA[  If the name or credit of a course has changed, the following procedure is followed. First, a new course is assigned with the ' CRS01 Course Catalogue' assignment, then the course is created in ' CRS02 Course Assignment . The old course is closed; The newly created course is assigned as the course that was opened instead. With this process, a new course will appear before the students who fail that course during course registration. In your transcript, this course will be reflected in the grade point average as a single course. This process is valid for all students taking the relevant course.
+' Prerequisite Courses’:
+In the course catalogue, the prerequisite assignment given to the course, ' crs02 – Course Assignment In practice, it means that it is valid for every section that includes this course in the curriculum. That is, if the prerequisite assignment for B course is to pass the A course, and it is valid for all faculties, it is necessary to assign the prerequisites from the catalogue. If there is a different prerequisite assignment than ' crs02 – Course ‘for the same course, the assignment in the course plan will be valid for that department.
+In the case of such a situation; If the prerequisite assignment of B course is valid only in A, B, C faculties, but if prerequisites are not needed in other faculties, it would be appropriate to make the prerequisite assignment from the ' crs02 – Course ‘application.
+Screen crs02-03
+During course registration, if the student does not meet the prerequisite for a course, he will not be able to enroll in the course. In the prerequisite assignments, Condition: could be 'and' 'or', or passing the course, taking the course, etc. as a prerequisite.
+'Equivalent Courses':
+It is the screen where the course is assigned to which course it corresponds to. For example, the course taken in Erasmus may coincide with one or more courses in the department. When we enter this information, the equivalent courses are not displayed to the student during course registration. These assignments can also be used in adjustments.
+' Elective Pool Courses':
+The online pool course representing the elective course group can be assigned from the ' crs01 – Course Catalog ' application. Which courses will be included in the content of this pool are determined here?
+         ]]></page><page Index="40" isMAC="true"><![CDATA[   'Copy From Another Elective Repository:
+When creating the content of a new repository, it is used to copy the content of another repository that is the same, rather than adding individual courses. Later, if desired, the courses in the pool can be added/removed.
+'Copy All Repositories as Common Course:
+It is used to assign all elective course pools assigned under the departments as 'University
+Partner/Faculty Partner'. At this stage, the contents of the repositories must be assigned by the user.
+Prerequisite Courses, Elective Courses, Equivalent Courses (in English/Turkish) can be imported into excel.
+ ]]></page><page Index="41" isMAC="true"><![CDATA[  University Common Course Assignment:
+University-based common courses; In order to be opened as a ‘University Common’ from the ' crs03 - Academic Year Course ' application, first ' crs02 - Course Assignment must be made.
+Course: even when it is assigned as 'University Common', if it is a course included in the student's own curriculum, it must also be assigned in the curriculum of the student's department. Courses assigned as 'university common' will appear in front of students studying in the departments included in the curriculum.
+Department Common – Course Assignment:
+A course: If it is needed to be selected by all students in the faculty, it must be opened as ‘Department Common’ in the course of the academic year. Department selection should be ‘Department Common’. First, the course must be assigned as ‘Department Common’ in the ' Crs02 – Course Assignment application.
+       ]]></page><page Index="42" isMAC="true"><![CDATA[   Course: even when it is assigned as 'Faculty Common', if it is a course in the student's own curriculum, it must also be assigned in the curriculum of the student's department. Courses assigned as 'faculty common' will be offered to students studying in the departments in the curriculum.
+CRS03 Academic Year Course
+Purpose and Scope: It is the application in which the courses opened on a departmental basis in an academic year/semester/the instructor/member who teach these courses are assigned. If the courses are to be taught in more than one 'section', the section assignment is made with this application.
+1. Combining an opened course with another course is within the scope of this application.
+2. By defining the quota for the courses offered, a certain number of students can be registered to the course.
+3. In case the instructors make their grade entries on the web, the stage of their grade entry is also displayed with the help of this application.
+  ]]></page><page Index="43" isMAC="true"><![CDATA[  4. The tuition fees of the courses opened in the summer school are also assigned by this application.
+Explanation: If the academic year course assignment is not made before the course registration, the courses will not be listed before the students.
+'Create Bulk Academic Year Course' process,
+At the beginning of the semester, it provides convenience in creating courses. All assigned open courses under the department/if desired closed courses are also opened under the department in bulk. The user makes the necessary adjustments by deleting the courses that should not be opened.
+It should be noted; closed but in case there are students who will take that course, those courses must be assigned.
+'Create Academic Year Course with Selected Courses' process,
+It can be used in cases where a course should be created for the academic year by choosing certain courses. 'Course Search' opens when the key is pressed. User, faculty/department/open-closed course status etc. from here. It can list the courses with filters such as and complete the process by marking the courses that need to be opened.
+It should be noted; closed but in case there are students who will take that course, those courses must be assigned.
+     ]]></page><page Index="44" isMAC="true"><![CDATA[   Creation of sections;
+In the example screen, MK 121 course is opened as '2' sections. To open a section, it is necessary to hover over the relevant course and press the 'Create Section' button.
+How many more sections will be added, write it and select the letter or number option.
+Sample: When we hover over a course with a '0' section and select '1' and a number, a new course with '1' section is created.
+To see the result of this operation, it is necessary to press the 'List' button. Letter selection helps to name sections like 'A', 'B'.
+After creating these section names, updates can be made on the detail screen.
+For example; Like 'A Double', 'B Odd'. Assigning sections to students is done with the ' CRS05 Student Section Assignment' application.
+]]></page><page Index="45" isMAC="true"><![CDATA[   Screen crs03-02
+' update'/'new' button, the screen showing the details of the information opens.
+Screen crs03-03
+Instructor Assignment:
+On this screen, the instructor(s) giving the course is assigned. If there is more than one faculty member, only one person is designated as responsible, the responsible faculty member can enter grades online.
+ ]]></page><page Index="46" isMAC="true"><![CDATA[  Joint Course/Section:
+If students in a course/section will be taught together with another course/section, section merger is done. The relevant course is selected with the ' ... button ', ' save ' is pressed. Then, with the ' Update Students' Courses ' button, the students who took the course are transferred to the other class. If this is not done, students will stay in their old sections. If the course content is the same, students can be transferred to another course with a different section or even a different code. This action affects the class lists and the lists in the grade entrance. On the student's transcript, the course chosen during course registration is shown. It does not cause any change in the transcript. In the example screen, the students who took the math 111 course in the engineering faculty in the summer school were transferred to the math 111 class in the science and literature faculty. If you want to cancel this merge, 'Delete Opened Course' button is pressed. Then ' Save ' and ' Update Students' Courses' are done. Thus, the merged section and course will be synchronized. It should be noted that if a course is merged with another course, the responsible instructor MUST NOT be assigned as in the example screen.
+'... button' is turned off when trying to merge the related course, it means that another course has been merged with the previously selected course and it is not allowed to be merged with another course.
+For example; Even if lesson A is merged with lesson B, lesson B cannot be merged with lesson C.
+If the A and B course is to be merged in the C course, it is necessary to merge it as A->C and B->C.
+If a department has been merged with a course or has a merger from another course, it can be listed by using the 'Search in the Section to which it was Merged' , ' Merged with Another Section ' options on the first screen of ' CRS03 Academic Year Course ' .
+If only one student will take the course in another class, what should be done is; it is necessary to create a section for that student, assign the student to the section and merge the course with the course related to this application.
+Step-by-Step Explanation of the Process Sequence: Joined Section Division:
+1. Step 2: Selecting the course to merge
+If students in a course/section will be taught together with another course/section, section merging is done. The relevant course is selected with the ' ... button ', ' save ' is pressed.
+2. Step 2: Confirmation of the selected course with the save process
+   ]]></page><page Index="47" isMAC="true"><![CDATA[   3. Step 2: Reflecting Students to Course Information
+Then, with the ' Update Students' Courses ' button, the students who took the course are transferred to the other class. If this is not done, students will stay in their old sections. If the course content is the same, students can be transferred to another course with a different section or even a different code.
+Continue' button is pressed in the warning that appears on the screen, the common course number and common section information of the students are updated and the process continues.
+The ' Cancel' button is used to stop the process.
+A student’s course number and section information taken from his/her own department are shown
+below. (std03 – Courses Taken)
+In return for this course, the number of the other course and the section information of the student can be seen by clicking the ' Update' and 'Common Section Information' button as below.
+  ]]></page><page Index="48" isMAC="true"><![CDATA[   Assignment of Quota Information:
+Minimum: Represents the minimum number of students who can take the course. It is actively used in the summer school (For cases where the courses chosen by the student below a certain number should not be offered).
+Maximum: Represents the maximum number of students who can take the course. If it is left blank or zero, it means that unlimited students can be enrolled in the department.
+For the courses assigned as University Common / Departmental Common, the Maximum is invalid, and the Non-Departmental Maximum should be used.
+Non-Departmental the Maximum: Except for the department where the course is offered; It represents the maximum number of students who can take the course from other departments. -1 to the non- Departmental field If value is given, it means that no student from outside the department will be able to select the course.
+What should not be forgotten here is.
+Quotas inside and outside the department are isolated from each other. If maximum number of students is 50, and maximum 10 people from outside the department are assigned for a course, it does not mean that 40 people can take the course from within the department and 10 people from outside the department, it means that 60 people in total can take the course. Therefore, for non-departmental students to receive unlimited, the Non-Departmental Maximum field must be left blank or zero.
+Assignment of Quota Breakdown:
+When a student selects a course and wants to add it to his list, the quota control procedure is called, respectively.
+For its own department (the course may be the course of its own department, or the lower breakdown may be assigned for the department. The lower breakdown is always prioritized.) Is the quota assigned? If so, is there any vacancies?
+If the course does not belong to its own department (including the breakdown for the common or other department course, is there a non- departmental quota assigned)? If so, is there any available room?
+     ]]></page><page Index="49" isMAC="true"><![CDATA[  He tries to register the student by asking questions. If yes for one of the two items, the student registers for the course.
+The conditions that enable a student to be counted from the quota of a course in an academic year are as follows.
+save code is full or,
+Advisor Approval field
+-1 (course has been added to the list but not yet approved), 1 (advisor approval given),
+3 ( add-drop approved) values or,
+2, 4 (the advisor's rejection of the course),
+Student Confirmation field
+-1 (course added to the list but not yet approved),
+1 (student consent given),
+3 (add-drop approved),
+In the above example, the course was opened as ' University Common, but only two faculties were required to take this course. Faculty of Law A total of 145 people will be able to choose, 143 of which will be for the Faculty of Pharmacy. Except for these faculties/departments, no student will be able to take the course. (Because the most non-departmental fields are given as -1) The system primarily looks at it as it is a sub-department based on faculty/department, and it is also considered whether the course is offered commonly by the University/Faculty. If the sub-breaks were not assigned or the Common was not opened, the Maximum and Non-Section Maximum Fields would be active.
+In another example above; Most Quote shows 'in-department quota'. Everyone is considered to have taken a common course from outside the department. So, it doesn't matter what is written there, it can be empty. In addition, the values assigned in the sub-breakdown always take precedence. For example, if it were assigned as 50 for the non-departmental section, in addition to the 17 sub-breakdowns in the example, a total of 50 more people could be registered from any department other than these sub- departments. Therefore, as in the screenshot, the non-departmental quota should generally be given as - 1 for the courses with sub-breakdowns assigned.
+   ]]></page><page Index="50" isMAC="true"><![CDATA[  Assignment of University Common / Faculty Common Quota:
+In the above example, since the course was opened in the Faculty of Engineering as a common course, it means that 50 people, mixed from all departments, will be able to choose this course. Since the lower breakdown is not given and the university common/departmental common is assigned, the students in the engineering faculty will be deemed to have taken this common course from outside the department. Therefore, the Non-Departmental Quota field must be filled.
+University Common - Academic Year Course Creation:
+A course: If it is needed to be selected by all students at the university, it must be opened as a 'university common in the academic year course. Department selection should be ‘Departmental Common’. First, the course must be assigned as 'University Common in the 'crs02 – Course Assignment’ application. If a course is opened as a university common course, it does not need to be opened separately on a departmental basis.
+Faculty Common - Academic Year Course Creation:
+A course: If it is needed to be selected by students from all departments affiliated to a particular faculty, it must be opened as a ‘departmental common’ as a department in the academic year course. Faculty Selection should be 'Engineering Faculty', Department selection ‘Departmental Common’ should be selected. First, the course must be assigned as ‘Departmental Common’ in the 'crs02 – Course Assignment’ application.
+  ]]></page><page Index="51" isMAC="true"><![CDATA[   crs01, crs02 crs03 Example
+Open/Closed or All courses can be searched by Course Code or Name on the search page of Crs01 Course Catalog Application.
+By using the Update button, detailed information about that course catalog can be viewed. Credit information such as Theory, Practice, ECTS credits in the Course Code, Course Name and Credit information in the assignment information is valid for all courses connected to this catalog.
+ ]]></page><page Index="52" isMAC="true"><![CDATA[   In addition, the Course Name can be assigned separately for all languages supported by the system. The course name assignment according to the language can be accessed via the Languages button in the Course Name assignment field.
+The information of the courses linked to this catalog can be accessed from the catalog courses page. Faculty, Department Class information of the courses can be viewed here. The detailed information of the course can be accessed by using the Update button.
+ ]]></page><page Index="53" isMAC="true"><![CDATA[   Code Name and credit information of the course from the catalog cannot be changed here. Faculty, Department, Class information is assigned in the new course assignment. This information cannot be changed while the course is being updated. Apart from that, Teaching Term, Curriculum, Course Features; Information such as Course Type, Course Type, Course Status can be changed.
+ ]]></page><page Index="54" isMAC="true"><![CDATA[  If the course has been closed and a new course has been opened, this assignment can also be made in the Course Change section.
+By using the Crs02 Course Application, Courses can be searched by their features such as Faculty, Department and listed in the results. Thus, the details of the course can be accessed without using the course catalog.
+In the Crs03 Academic Year Course application, the courses taught in the semesters, the sections opened and the instructors who teach the course are followed in detail.
+  ]]></page><page Index="55" isMAC="true"><![CDATA[   s button, the section information of the course, the instructors and the responsible instructor can be assigned. In addition, section merging or cancellation of section merging transactions are made here.
+With the Bulk Create a Course for the Academic Year feature, by selecting the Faculty, Department or the class if desired, the courses of the selected academic year and the annual courses that are open for that election are assigned to the selected academic year and term. A section is created for each.
+ ]]></page><page Index="56" isMAC="true"><![CDATA[   If a section is to be divided into sections, the create section feature is used. That course is selected from the search list. Then, the number of sections to be divided into is written. Letters such as A, B, C or numbers such as 0, 1, 2, 3 can be used as section names.
+CRS04 Course Registration Status
+Purpose and Scope: It shows the registration status of all students at the university during their online registration.
+Explanation: Online course enrollment (during the active academic year and semester) is completed with the Approval of the Advisor after the Approval of the Student. Some students can register the course directly by going to the advisor. Or the advisor may not have given approval after the student is registered. If Approval status is '1', Approved, '0' Unapproved students can be listed. Registration Confirmation shows the latest status of the confirmation process.
+  ]]></page><page Index="57" isMAC="true"><![CDATA[   CRS05 Student Section Assignment
+Purpose and Scope: It is the application used to assign sections to students or to change their sections. Explanation: First, after the sections of the course are assigned in the 'CRS03 Academic Year Course '
+application, the students enrolled in the course are listed and assigned to the sections of the course.
+Screen crs05-01
+Students are selected by listing and assignment is made to the relevant section with 'Bulk Assign Section’.
+CRS06 Bulk Course Assignment
+Purpose and Scope: It is an application that allows a single student or students to bulk assign courses.
+: The application is often used to bulk assign 'preparatory' or first-year courses to first-time college students. Assignment can be done on a departmental basis. For the courses to be assigned to be listed, the courses must be opened in the relevant semester in the 'CRS03 Academic Year Course Assignment’ application. If the courses offered have section assignments, the course assignments on the students are made on a section basis.
+      ]]></page><page Index="58" isMAC="true"><![CDATA[   CRS07 Curriculum
+Display grd06-01
+ Purpose and Scope: It is practical in which the weekly course program is entered. In addition, it can be viewed as the weekly course schedule of the student/faculty member/section and can be checked if there are overlapping courses.
+Explanation: If the Weekly Curriculum is assigned before the course registration, the student will be notified as a warning of course conflicts, if any, during online course registration. In addition, students can view their course schedule on a weekly basis after course registration.
+In order to assign the weekly course schedule:
+- With the 'Course Hours' button, the start and end times of the courses based on faculty should be assigned.
+]]></page><page Index="59" isMAC="true"><![CDATA[   Screen crs07-01
+- Sections, Lectures, Labs are registered with the 'Classrooms' button without selecting a faculty or department, on university basis; If needed, it can be assigned based on faculty, or based on department.
+The course schedule is displayed by listing based on faculty, department and class.
+' new' button, the assignment detail screen is opened.
+For the courses to be selected, the courses must be opened in the relevant semester in the ' CRS03 Academic Year Course Assignment’ application. The instructor giving the course comes from the assignments in the ' CRS03 Academic Year Course Assignment’ application. Registration is done by entering the day, hour, classroom and, if necessary, the explanation information.
+If a course is given during more than one course, clicking on the weekly course schedule opens the ‘Detail Assignment’ screen for ease of registration. Here you can change the time, select the ' Record' sign and press the ' Save' button.
+Synchronize Academic Year Lecture' button on the first screen, if there are any sections or courses deleted in the ' CRS03 Academic Year Lecture ', these records are deleted from the curriculum, and if the instructor giving the course has changed, this information is updated. If 'Prepare Report' button is selected and ' all faculty members' option is pressed, it lists the information entered in the weekly course schedule in excel.
+GRD01 Grade Entrance
+Purpose and Scope: It is an application where grade entrance is made on a course basis. Depending on the regulation, it works according to numeric/letter/letter-criterion grade systems. The grades of the courses can be taken as a 'grade transcript' on a course basis.
+Explanation: During the grade entry, the weights of the exams are assigned with the ' Exam Assignments’. Calculation is performed with criterion calculation. If the instructor enters grades online,
+]]></page><page Index="60" isMAC="true"><![CDATA[  the grades of the instructor at the time of final enrollment can be viewed with this application. Final Registration can be undone.
+Display grd01-01
+CRS10 Course Load Assignment
+Aim and Scope: In an academic year; It is the application in which the maximum Credit Load and maximum Number of Courses that students can take during course registration are assigned based on Faculty / Department / Class / Course Plan.
+  ]]></page><page Index="61" isMAC="true"><![CDATA[  Explanation: At the same time, according to the assignments here, the student's academic disability checks work in conjunction.
+     Course Loads (crs10)
+     Class
+  Teaching Period
+      Course Load
+    1st Grade
+ Autumn
+     15
+    1st Grade
+ Spring
+     15
+    2nd Grade
+   Autumn
+      15
+     2nd Grade
+Spring
+  15
+    3rd Grade
+ Autumn
+     15
+    3rd Grade
+   Spring
+      15
+     4th Grade
+Autumn
+  15
+    4th Grade
+    Spring
+       15
+         Calculation
+    Total credit range
+     Passing Score
+                     >= 30
+      <= 44
+    Pas. 1
+  >= 45
+  <= 59
+ Pas. 1.3
+   >= 60
+    <= 74
+  Pas. 1.5
+   >= 75
+      <= 89
+  Pas. 1.7
+  >= 90
+    <=104
+ Pas. 1.8
+   >= 105
+            Pas. 1.9
+  Note: The credit load of each department is different. The above is just an example.
+Screen crs10-01
+ ]]></page><page Index="62" isMAC="true"><![CDATA[  the ' Edit' option, credit and course numbers can be entered and saved with ' Update '. The list of assigned faculties, departments and course plans are synchronized. Course load assignment can be imported into Excel/Pdf environments if desired.
+GRD04 List of Students whose Grade Is Not Entered
+Purpose and Scope: It is the application used to list the students whose grades are not entered after the grade entry process is completed. At the same time, it is checked whether the student is assigned to a faculty member of the course/section. Doing this before the grade entry process can be helpful to find missing assignments.
+Explanation: After the registration of the course and the registration of ' excuses’ in the courses divided into sections, some students may not have grades due to the fact that a section was not assigned. The grade entry stage status of course-based grade entrance (input by the instructor on the internet) is made from the ' CRS03 Academic Year Course Assignment’ application. This application provides student- based grade entrance control. It can be used for check purposes in cases where grade entrance is made by student affairs.
+  Display grd04-01
+CRS08 Student Course Deletion/Transfer
+Purpose and Scope: It is used to delete the course registrations of students enrolled in a course in bulk or to transfer them to another course.
+Explanation: The transaction can be made for the current academic year. After the relevant course is selected and listed, no grades must be entered for the course for students to be deleted or transferred to another course.
+  Screen crs08-01
+]]></page><page Index="63" isMAC="true"><![CDATA[   Faculty Member
+Below the İnstructor tab (İnstructor Assignment) ‘how to use the screen’ is displayed.
+TCH01 Faculty Member Assignment
+Purpose and Scope: It is an application where faculty members are assigned, and relevant information is updated.
+Explanation: When defining a new faculty member, it must be checked by searching by surname in order not to register duplicate faculty members. The common mistake is to search for the faculty member with faculty information and to register more than once by different faculties.
+Screen tch01-01
+Faculty members log in to the system from the faculty member website with their information and passwords in the e-mail field. If the working status is set to 'left', they will not be able to login from the website. If the photo of the instructor is transferred to the system, s/he will be able to see it when s/he enters the website. Similarly, students with whom s/he is an advisor will be able to see his/her advisor's photo, room at the university, and phone/contact information.
+List of units where the faculty members work includes the faculties assigned in the system and the units assigned in the ' DEF06 Unit Assignment for Faculty Members' application. Units such as the School of Foreign Languages or the Turkish Language Research Institute can also be assigned under the Rectorate unit.
+Report
+Under the Report tab, use of screens (Quota Report, Course Class Report, Course Quota Report, Success Report, KYK List, OSYM Report, YÖKSİS Report, KYK Monthly Status Report, Course Based Success Report, Success Statistics, OSYM Numbers, Survey Results, Prerequisite Report) is shown.
+RPR01 Quota Report
+Purpose and Scope: It is the report showing the number of quotas and the number of placed and registered students on a departmental basis during the first registration to the university.
+    ]]></page><page Index="64" isMAC="true"><![CDATA[  Explanation: Quota numbers must be entered beforehand with the ' Assignment of ENR01 ÖSYM Codes' application.
+ Screen rpr01-01
+RPR02 Lecture Class Report
+Purpose and Scope: It is the application used to get the 'Class list / Attendance list / Grade notification list' after course registrations.
+Explanation: If the class lists have been merged (' CRS03 Academic Year Course Assignment), the students appear under the merged courses.
+After selecting the listing options, the ' Question' button displays the students as a list. After selecting the list option such as ' Class List ', the ' Report' button is pressed.
+  Screen rpr02-01
+RPR03 Course Quota Report
+Purpose and Scope: It is the report used to see the number of students on a course basis.
+Explanation: After the course registration process is completed, the number of students per course can be monitored.
+ ]]></page><page Index="65" isMAC="true"><![CDATA[   RPR09 Student Numbers Report
+Screen rpr03-01
+ Purpose and Scope: It is an application where the number of students is shown as a table based on male/female class.
+Explanation: If the current year and semester or the current date is entered as the update date, the currently registered students are listed. It must be equal to the number of registered students in the 'STD01 Student Search' app, if not equal gender etc. may be due to incomplete/unassigned information. After pressing the ' Student Numbers' button after the ' list' operation, the relevant table is created as excel.
+Screen rpr09-01
+RPR12 Course-Based Success Report
+Purpose and Scope: It is the application where the courses taken by the students and their grades are listed.
+Course results could be evaluated collectively in the departments. It can be used in estimating the number of students in the next semester by finding the students who have failed in the courses in the past semesters. For general course types such as preparatory class, bulk lists of pass/fail can be obtained. Students who have not taken a course can be listed. For example, there may be those who have not been assigned an internship course.
+    ]]></page><page Index="66" isMAC="true"><![CDATA[  Explanation: Results can be listed based on academic year and semester, the latest status option is selected, if a student has taken the course in the spring and summer semesters, the result for the summer semester is listed.
+Course lists are taken based on the course the student is enrolled in. (Although the course code/department taken is different, a list is taken based on the course he/she is enrolled in)
+Screen rpr12-01
+RPR18 Advanced Inquiry
+Advanced report is the screen prepared for receiving special reports requested by the institution. On this screen, you can choose from ready-made query templates, export to excel, or filter by grouping from the grip below.
+Assignment
+Under the Assignment tab, screens (Parameter, Announcement, Unit Assignment for Faculty Members, Faculty / Department / Option, Upper / Unit, Diploma Supplement, Calendar Entry, Bulk Picture
+     ]]></page><page Index="67" isMAC="true"><![CDATA[  Assignment, Document Assignment, University Assignment, District, District / Military Office Section Assignment, YÖKSİS Unit ID Assignment) are shown.
+DEF03 Announcement
+Purpose and Scope: It is an application used to publish announcements on the student or instructor page in the system/print explanation texts in applications such as Course Registration, Grade Entrance, Transcript.
+Explanation: By selecting New, the Page Type to be sent and the Date of Registration are determined with the help of the list. The announcement to be published is the announcement with the largest registration date. Previous announcements can be optionally deleted or stored and archived. With Save Announcement, the announcement starts to be published from the date of registration.
+Display def03-01
+DEF08 Faculty / Department / Option
+Purpose and Scope: With the help of this application; Faculty / Vocational School / Institute and departments / departments of the university can be created. Existing records can be updated.
+: The 'Faculty / Department / Option' Assignment application consists of information for registering a new unit and three separate sections listing registered organizations.
+ASSIGNMENT OF NEW FACULTY-DEPARTMENTS
+   ]]></page><page Index="68" isMAC="true"><![CDATA[   Display def08-01
+Assigned faculties are listed at the top. To add a new faculty information, we first press the ' New' button. placing in the university (ÖSYM and DGS) are as follows:
+If a new faculty / department is opened at the university,
+It is necessary to assign under Faculty / Department / Option (def01) under Assignment
+(Preparation – Evening Education etc... information should be paid attention to)
+Like the current faculty / department assignment, it should be checked whether the preparatory course is taught and if there is an evening education, the accuracy of this information should be checked. Because, while transferring data from Ösym, the class of the student is assigned according to these parameters.
+NEW FACULTY INFORMATION ENTRY
+The faculty code must be observed. A previously unused code should be given and information such as faculty type, education level, regulation should be selected and saved.
+  ]]></page><page Index="69" isMAC="true"><![CDATA[   display def08-02
+After the faculty information is recorded, the department can be assignment.
+NEW SECTION INFORMATION ENTRY
+Display def08-03
+First, the relevant faculty is selected from the list in the upper section. If there are previously assigned departments in the faculty, they will be displayed in the department list.
+' New' button, the new partition information is saved as follows. Particular attention should be paid to the section code when saving a new section. Assignments related to the preparatory class should be made correctly.
+ ]]></page><page Index="70" isMAC="true"><![CDATA[   Screen def08-04
+Preparatory Class: It means (compulsory preparation) when 'there is' is marked. And while the data of the students who won from Ösym are transferred, the CLASS information of the students who won this section will be transferred as preparation. Preparatory Class: CLASS information is given as 1st grade in the sections marked 'none'.
+After this stage, the OSYM Guide codes of the new departments must be assigned in the First Registration to the University / Assignment of OSYM Codes menu so that the students who have won the OSYM in the new academic year can be transferred to the relevant departments.
+CAL01 Calendar Entry
+Purpose and Scope: It is the application in which the Process Start and End dates are determined in the programs assigned in the university units.
+The start and end dates for the processes assigned in the OSYM First Registration, Student Course Registration, End of Term Grade Entrance, Midterm Grade Entrance, etc. are recorded under the name of the Academic Calendar.
+Explanation: With the help of this application, in order to determine the dates of the process/processes in faculties/departments, selection can be made according to Year, Term, Faculty, Department, Faculty Type and Class criteria. Year, Period is a required field. Other criteria mean all when left blank. For the faculty / department selected from the list, the start and end dates of the processes, the advisor's deadline; only the selected process will be valid for the selected faculty and department.
+Purpose: To ensure that the academic subjects determined by the institutions before the academic year starts are assigned with the start-end dates.
+Job
+The academic calendar of the institution for the academic year is determined by the proposal of the units and the decision of the Senate.
+The starting and ending dates of the processes start and end when the time comes, as stated in the
+ ]]></page><page Index="71" isMAC="true"><![CDATA[  academic calendar. According to the decision of the Senate, the start & end dates of the academic calendar covering one academic year of the university and which units are valid are added.
+Academic calendars can be made based on faculty, department, program and class.
+Example Academic calendar titles
+• Ösym Pre-registration Start - End Date: Pre-registration screens become active within the
+specified date range.
+• Ösym Additional pre-registration Start - End Date: Pre-registration screens become active within the specified date range.
+• Dgs pre-registration Start - End Date: Pre-registration screens become active within the specified date range.
+• Dgs additional pre-registration Start - End Date: Pre-registration screens become active within the specified date range.
+• Taking Courses Start - End Date: Student taking courses is active within the specified date range.
+• Midterm exam grade entrance Start - End Date: If assigned, visa grade entries are made within the specified date range.
+• End of year exam grade entrance (Final): If assigned, visa grade entries are made within the specified date range.
+• Evaluation Questionnaire: Provides a Survey to students to complete before showing their grades within the specified date range.
+• Days without attendance requirement: Course attendance is not taken within the specified date range.
+• Fee Payment Start - End Date: Fee payment will be active within the specified date range
+Display cal01-01
+ ]]></page><page Index="72" isMAC="true"><![CDATA[   DEF10 Document Assignment
+Purpose and Scope: It is possible to change the fields such as title, sub-text, signature and title in the documents (Student Certificate, Military Certificate, Transcript, Temporary Graduation Certificate, Diploma, etc.) by using the 'Document Assignment’ application.
+Explanation: For example, to update document parameters in Diploma document, it is necessary to follow these steps.
+Select Diploma from the Document Type list.
+ Display def10-01
+Faculty selection list opens. Initially, the ' University Common’' option is selected. This option allows the use of the document parameters of the Registrar's Office instead of any faculty.
+Display def10-02
+In order to query and then change the Diploma parameters of the Faculty of Engineering, the Faculty of Fisheries is marked in the faculty selection list.
+ ]]></page><page Index="73" isMAC="true"><![CDATA[   Then click the List button.
+screen def10-03
+ screen def10-04
+In the Signature and Title line fields, the information of the faculty dean is displayed as Signature 1 and of the rector as Signature 2.
+DEF11 Curriculum Assignment
+The course plan assignment screen is the screen prepared to create a special plan for the faculty, department and year of the course plan. On this screen, you can add or delete a course plan or add or delete a course within the assigned course plan.
+]]></page><page Index="74" isMAC="true"><![CDATA[   List: shows the plans assigned according to the criteria in the selected liter. Update: used to update the assigned plan.
+New: used to add a new course plan. The name of the faculty, department, curriculum is selected, and the year is selected, and the curriculum is assigned to the relevant department with save.
+Bulk Course Assignment: After entering the relevant course plan, it allows to add or remove the courses opened by the faculty and department for which that course plan is assigned, in bulk.
+Details of Curriculum Assignment Procedures
+In order to create University, Faculty common course packages and Department course packages in the system, a course plan must be assigned.
+The relevant screen is opened via the Assignments > Curriculum Assignment menu. On the screen that opens, a search can be made based on Faculty, Department, Start Year, Curriculum and Upper Course plan. After the filters are entered, a search is made with the "List" button.
+  ]]></page><page Index="75" isMAC="true"><![CDATA[  • Upper Course Plan refers to a one-level above course plan that covers the relevant course plan. If there is an upper course plan, they are included here in addition to the courses in the course plan. This structure is designed for University Common and Faculty Common courses.
+“New” button is selected to add a new course plan to the system. After selecting the faculty, department, starting year of the plan to be added and, if any, the upper course plan is selected, the name of the course plan that was previously added to the system is selected from the "Course plan" field. With the "Save" button, the course plan is saved to the system.
+To delete an existing course plan in the system, the course plans are listed. By selecting the course plan to be deleted, the plan is opened with the "Update" button. With the "Delete" button, the plan is deleted from the system.
+  Adding Courses to the Course Plan
+After a course plan is created, the relevant plan is opened to add lessons to it. Select the "Bulk Course Processing" button.
+]]></page><page Index="76" isMAC="true"><![CDATA[   On the screen that opens, the courses will be listed according to the categories of the courses to be assigned to the course plan. Respectively:
+• Select Courses to Assign from the Department > Searches the courses belonging to the relevant department.
+• Faculty Select Courses to be Assigned Commonly > Searches for common courses in the relevant faculty.
+• University Commonly Select Courses to Assign > University searches for common courses.
+Courses from any group can be searched with the "List" button. After the courses to be selected are marked, continue with the "Select" button.
+ ]]></page><page Index="77" isMAC="true"><![CDATA[  Which of the selected courses will be added to the curriculum, are marked on the left and recorded in the course plan with the "Continue" button
+Authority Assignment
+The use of the (Program, Role, User) screens under the Authorization Assignment tab is shown.
+DEF02 Role
+Purpose and Scope: The role creation process is done as follows. For each user, whatever operations it needs to perform, the relevant role assignment is made by assigning it to the user. Departmental users can be authorized to all faculties and all sub-functions of all applications. The admin role means to have authority over everything.
+Explanation: Point to be noted; for example, if the STD01 heading is checked, all functions under it are authorized. If some functions of STD01 are to be authorized, a separate role should be assigned and this role should be assigned to the relevant users.
+Display def02-01
+DEF07 User
+Aim and Scope: All faculty members / students have the same authority. In the user section, the user information of the university staff can be assigned.
+Explanation: Supervisor, faculty members log in to the system as a username and with an e-mail address. Entering instructor information, password, etc. It is recommended that the processes such as the processing of the leaving faculty member at the beginning of the year should be done centrally.
+    ]]></page><page Index="78" isMAC="true"><![CDATA[   Institute
+Display def07-01
+ The use of the screens (Assigning Advisor, Thesis and Thesis Exam Information, Doctoral Qualification Information, Doctoral Thesis Proposal and Thesis Monitoring Reports, Exam Tracking, Thesis Lists) of the Institute tab are shown.
+INS01 Advisor Appointment
+Purpose and Scope: It is the application where the course or thesis advisors of the students are assigned, and the advisor reports are processed.
+Explanation: If the student's advisor changes, the update can be done.
+Screen ins01-01
+INS02 Thesis and Thesis Exam Information
+Purpose and Scope: The thesis topic of the students is the application in which the date-number information of the thesis is approved.
+   ]]></page><page Index="79" isMAC="true"><![CDATA[  Explanation: If the thesis information of the student is processed, thesis topics can be listed by the instructors under the name of thesis lists on the pages of the instructor.
+Screen ins02-01
+INS03 Ph.D. Qualification Information
+Purpose and Scope: It is the application where the information about the doctoral proficiency exam of the students is processed, and the qualification committee and jury members are assigned.
+Explanation: This information is processed into the system by student affairs.
+Screen ins03-01
+INS04 PhD Thesis Proposal and Thesis Monitoring Reports
+Purpose and Scope: It is the application where students' thesis proposal defense information and thesis monitoring committee, thesis monitoring reports are processed.
+Explanation: This information is processed into the system by student affairs.
+    ]]></page><page Index="80" isMAC="true"><![CDATA[   Screen ins04-01
+ INS05 Exam Tracking
+Purpose and Scope: It is an application where information about the students who took the thesis, doctoral proficiency exam, doctoral thesis proposal exams and the results of the exam are reported.
+Explanation: Filtering can be done according to the Faculty / Department, Teaching Level, Exam Type, Exam Result information.
+Screen ins05-01
+INS06 Thesis Lists
+Purpose and Scope: It is an application that provides detailed reporting according to the students' thesis advisor, thesis subject information.
+Explanation: It can be filtered according to Faculty / Department, Education Level, Graduation Date Range, Stage information.
+  ]]></page><page Index="81" isMAC="true"><![CDATA[   Diploma Procedures
+Screen ins06-01
+ Under the Diploma tab, use of screens (Diploma Supplement, Temporary Graduation Certificate/Diploma) is shown.
+DIP02 Temporary Graduation Certificate/Diploma
+Purpose and Scope: It is the application where the temporary graduation certificate and diplomas are printed.
+Explanation: Diploma number and date can be entered in the 'Registration Information' tab of the 'STD01 Student Search' application and can be generated through this application according to the logic of giving a diploma number. After students are added to the list, their documents are printed.
+Screen dip02-01
+DIP04 Diploma Book
+Purpose and Scope: It is the application where the diploma book is printed.
+   ]]></page><page Index="82" isMAC="true"><![CDATA[  Explanation: Based on the faculty, the diploma number is also printed.
+ Petition
+DEF11 Document Requests
+Screen dip04-01
+ On the Petition Search screen, students can list the documents they have requested. Once you have the documents ready for students to receive, you can set them to answered status. You can get the information on the requested screen into excel.
+ ]]></page><page Index="83" isMAC="true"><![CDATA[    My information
+The use of the bottom (Password Change) screen of the My Information tab is shown.
+INF07 Password Change
+Purpose and Scope: The user can change his password at any time.
+Screen inf07-01
+The login address to the system is ................ In order to log in to the system, the Student’s Number must be written in front of the Student No field in the window that opens when the Login button is pressed. It is not possible to log in to the system with the new password received from student affairs. It is strongly recommended to change the password when logging in for the first time.
+   SMS (Student)
+Login to the system
+]]></page><page Index="84" isMAC="true"><![CDATA[   My information
+Figure 2Login to the System
+ The use of (Password Change, Advisor Information, Transcript, Attendance Records) screens under the Information tab is shown.
+INF01 Advisor Information
+Students can learn about their advisor from this section.
+Figure 3 Student Advisor Information
+INF02 Student Information
+The student can see their own information in this section and can update the ones that are open to update.
+   ]]></page><page Index="85" isMAC="true"><![CDATA[    TRN01 Transcript
+The student can see the transcript from this section. It cannot be used as an official document.
+ Figure 4 Student Transcript
+My courses
+Under MY Courses tab, the use of the lower screens (My Grades, My Schedule) is shown.
+CRS08 My Grades
+Students can view the grades they received during the active education period in this section.
+   ]]></page><page Index="86" isMAC="true"><![CDATA[   Figure 6 My Grades for the Term
+ INF08 My Curriculum
+The student can view the weekly course schedule of the courses he/she registered during the active semester from the weekly schedule of his/her department.
+Figure 7 My Curriculum
+ ]]></page><page Index="87" isMAC="true"><![CDATA[   STD18 Course Attendance Information
+This is the area where the student can see the attendance chart of his/her department.
+Figure 5 Student Attendance Records
+From this screen, the student can view the list of courses belonging to faculties and departments.
+Questionnaire
+Under the (Poll) tab, use of the screen is shown.
+SUR02 Evaluation Questionnaire
+Questionnaires assigned for each course by the university administration are answered with this screen. In this section, students can fill out questionnaires related to the courses they are responsible for.
+   General Information
+INF03 Department Information
+   ]]></page><page Index="88" isMAC="true"><![CDATA[  The student must answer all questions. Otherwise, the survey is considered not completed and the Save operation is not allowed.
+Figure 8 Survey
+After selecting the relevant course's survey, the process is continued by clicking the 'Go to Survey' button.
+Figure 9 Answering the Questionnaire
+After the survey questions are answered, the process is completed with the 'Save' button.
+Registration
+Under the (Registration Renewal) tab, use of the screen is shown.
+ENR03 Registration Renewal
+The student performs the course registration process for the active academic year/semester from this department.
+    ]]></page><page Index="89" isMAC="true"><![CDATA[  In this area, the student can see their contact information in the area next to their picture. S/he can access his/her transcript and see the courses s/he can take this semester from the "Courses to Take" field. When s/he selects the course from this field and click the "Add to Selected Courses" button, the course will go to the "Selected Courses" area.
+In the "Selected Courses" field, the courses with Course Conflict can be viewed, the total credits of the selected courses can be seen, and the selected course can be removed by clicking the "Remove from Selected Courses" button. When the "Save Selections" button is pressed, the date field in the "Confirmation Date" column will be the date and time the "Save Selections" button was pressed. After the student makes the course selections, it is sent to the advisor for approval. Students who receive advisor approval cannot renew their course selections. Looking at the application, all fields appear inactive.
+When the student completes the course selection process, he/she can follow his/her weekly course schedule from the lower section of the application.
+Figure 30 Registration Renewal
+ ]]></page><page Index="90" isMAC="true"><![CDATA[  This should be done by following the attached steps. First, courses are selected from the 'Courses to be Taken' list and the process is continued by clicking the 'Add to Selected Courses' button.
+Figure 11 Registration Renewal 2,
+After the 2nd step, the courses in the 'Selected Courses' list are registered with the 'Save Selected' button and the course registration process is carried out with the approval of the advisor when the information in the screenshot is received.
+MNY03 Payment Plan
+It is the screen used by students to view their debts to the university, their installments and payment information. Registration > Payment Plan screen is opened from the student left menu. On the screen that opens, the debts of the student are listed by clicking the "List Debts" button. Installment and payment information regarding debts can be displayed.
+   Students cannot make any changes on this screen. They can view their debts on the system when they select a course during the registration renewal process.
+]]></page><page Index="91" isMAC="true"><![CDATA[   Petition
+Under the ‘Document Request’ tab, the use of screen is shown.
+PET04 Document Request
+Students can request documents through this application. Registrar's Office evaluates these requests and makes the necessary preparations for the student to receive it. The student obtains information by following the prepared documents here.
+  Figure 42 Document Request
+Message
+Under the ‘My Messages’ tab, the use of screen is shown.
+UTL04 My Messages
+This is the area where the messages sent to the students from the relevant institutions and staff of the university are listed. Students can exchange messages with their advisors.
+   Figure 13 My Messages
+]]></page><page Index="92" isMAC="true"><![CDATA[   SMS (Instructor)
+Login to the system
+Login address to the system is ................ In order to log in to the system, an e-mail address or username must be written in front of the Faculty Member field in the window that opens when the Login button is pressed. It is not possible to log in to the system with the new password received from student affairs. It is strongly recommended to change the password when logging in for the first time.
+Picture. 5System Login
+My information
+Under the ‘Password Change’ tab, the use of screen is shown.
+INF05 Password Change
+On the Password Change page, the title, name, surname, unit, sub-unit of the academic staff are withdrawn from the academic staff automation system and displayed in these fields.
+At the same time, updateable fields such as University room, University phone, Telephone, Mobile, E- mail, Web, New Password, Password Verification are created, and data entries are transferred to the automation system.
+   ]]></page><page Index="93" isMAC="true"><![CDATA[   Picture.2 Password Change
+ Student
+Under the Student tab, the usage of the screens (My Advisor, Student Search, Registration Confirmation, Student Attendance Information, Thesis Lists) is shown.
+STD05 Advisor
+On the ‘My Advisor’ page, student’s advisor is reflected in the student module in the academic staff automation system.
+The faculty member lists the students that he/she has advisors by filtering the Status and Section information.
+Student number, Name, Surname, education level, faculty, Department, Class, Status, Advisor, Section information are displayed in the listing.
+Students can view General, history, thesis, tuition fee information. Transcripts can also review Scorecard reports.
+When the list is made, clicking on the student opens the information page of the students.
+ ]]></page><page Index="94" isMAC="true"><![CDATA[   Picture. 3 Consulting Lists
+With this function, the Faculty Member can list the students he/she advises. Again, with this function, it can select any student and view the student's general information, transcript, student's history, report card, thesis information, tuition fee and curriculum information.
+Picture. 4 Seeing Student Information
+ENR03 Registration Approval
+The Faculty Member performs the approval procedures for the course selections of the students for the active academic year/semester from this department.
+REGISTRATION APPROVAL SCREEN – 1
+  ]]></page><page Index="95" isMAC="true"><![CDATA[   Picture. 6 Student Registration Confirmation
+In the status column, the latest status information of the students can be observed, and the students can be filtered with the filter.
+The Faculty Member chooses the Registration Renewal function by selecting the student to be approved.
+• Students in red are those who have not yet acted.
+• Students in green color are students who have completed the registration renewal process.
+• Yellow colored students are students who are waiting for advisor approval.
+REGISTRATION APPROVAL SCREEN – 2
+In this area, the contact information of the student can be seen in the area next to the picture of the Faculty Member. You can access the student's transcript and see the courses that they can take this semester from the "Courses to Take" field. When you select the course from this field and press the "Add to Selected Courses" button, the course will go to the "Selected Courses" area.
+]]></page><page Index="96" isMAC="true"><![CDATA[   Picture. 7 Student Registration Renewal
+In the "Selected Courses" field, the courses with Course Conflict can be viewed, the total credits of the selected courses can be seen, and the selected course can be removed by clicking the "Remove from Selected Courses" button. When the "Save Selections" button is pressed, the date field in the "Confirmation Date" column will be the date and time the "Save Selections" button was pressed. After the student makes the course selections, it is sent to the advisor for approval. Students who receive advisor approval cannot renew their course selections. Looking at the application, all fields appear inactive.
+REPORT - 3
+When the advisor wants to get the report of the courses of the students he has approved, s/he can get the registration approval report by clicking the "Report" button.
+]]></page><page Index="97" isMAC="true"><![CDATA[   STD18 Student Attendance Information
+Faculty Members can manage the attendance status of the students they teach with this screen (STD18) function.
+Faculty Members can manage the attendance status of the students they teach with this screen (STD18) function.
+Select; With the button, the instructor selects the course for which the attendance information will be entered from among the courses s/he has given.
+Report: With the button, the instructor can receive the attendance report of the course s/he has chosen from among the courses s/he has given.
+Update all continuously; With the button, the instructors constantly update the students in the course they choose from the courses they teach.
+Update all discontinuously; With the button, the faculty members update the students in the course they have chosen from the courses they teach, non-attendance.
+Picture. 8 Student Attendance Information
+Course
+You can access under the Courses menu, my courses, grade entrance, final registration, course schedule, course catalog, survey results pages.
+CRS07 My Courses
+My Courses page is seen in the academic staff module in the automation system.
+By listing the courses s/he has given based on the academic year/term, the instructor can get the CLASS/ATTENDANCE lists as Faculty, Department Course Code, Course Name, Class, Section. Courses are displayed in separate groups based on academic year and semester. It can list the general,
+   ]]></page><page Index="98" isMAC="true"><![CDATA[  thesis, history, report card, transcript, tuition fee information of the students in the lists by double- clicking.
+Once you select the course and click on ' Class List ', all registered students are displayed on the screen. The list is available in PDF/Excel format.
+Picture. 60 Lessons I Taught
+The course is double-clicked to get the list of students enrolled in the selected course.
+Picture. 11 Lessons I Taught 2
+When the student wants to see the detailed information of the any student in the selected class list, double-clicking on the student can display the student information in detail.
+  ]]></page><page Index="99" isMAC="true"><![CDATA[   GRD01 Grade Entrance
+Picture.12 Student Detail Information
+ Faculty members can enter the grades of the exams they are responsible for, such as midterm, final and make-up exams, into the system through this application.
+The instructor can enter grades by selecting the course and clicking the "Grade Entry" button or by double-clicking on the students who took the course.
+]]></page><page Index="100" isMAC="true"><![CDATA[   Exam Assignment
+Picture.13 Note Entry
+By clicking the "Exam Assignment" button, the names, numbers, percentage rates and publication of the exams are assigned.
+If it is necessary to change the name of the exam and the percentage rate, the change can be made by clicking on the relevant part.
+In exam assignment, the Publish box must be clicked for students to see the grades entered in the exam.
+All grades entered in the exams by clicking the Publish box are displayed on the students' semester grades page.
+If Publish box is not clicked, students cannot see their grades.
+]]></page><page Index="101" isMAC="true"><![CDATA[   Export to Excel
+Picture.14 Exam Assignments,
+With the Export to Excel button, the grade list is exported to Excel.
+Exam Report
+With the Exam Report button, you can get a list for the exam report.
+Viewing Student Detail Information
+During grade entrance, the "Student Information" button or double click on the student to get information about the students. In the window that opens, you can view the student's general information, transcript, history, report card, thesis, tuition fee and curriculum information.
+ Picture.15 Student Information
+]]></page><page Index="102" isMAC="true"><![CDATA[  Grade Entrance
+Double-click on the course for which the grade is to be entered or select the course and click the grade entrance button. Exam grades are entered.
+Temporary Registration
+Grade is entered for the midterm or (Homework, Project, Other, etc.) requested exam and temporary registration is made with ' Save’. If the " Publish " box next to the midterm exam is checked in the exam assignment, the numerical grades of the temporarily registered exam will be visible to the student and the midterm exam entrance will be completed.
+In the final exam, a temporary recording is made by entering the grade and clicking the ' Save' button. If the " Publish " box next to the final exam is checked in the exam assignment, numerical grades are shown to the student. Final registration is required in order to create letter grades.
+Certain registration
+After completing the grade entrance, the instructor clicks on the final registration button. A warning will appear on the screen to enter a password. The instructor enters the login password to the system for security reasons.
+Letter grades are automatically created according to the average in line with the grade ranges specified in the regulation. The letter grades of the students whose grades are not entered will be automatically recorded as "FF".
+After the assignments are made, the letter grades will come automatically when 'Calculate Absolute Grade' or 'Calculate Relative Grade' is clicked. This distinction is determined according to the regulations of the university.
+For the final exam, ' Save for sure' must be done before the end of the grade entry calendar. The letter grades of the courses that are not registered are not visible to the students.
+After completing the final registration process, a transcript is taken and delivered to student affairs. After the final registration, the instructor does not make any changes. The changes that need to be made are made by the student affairs department with the decision of the faculty administrative board.
+]]></page><page Index="103" isMAC="true"><![CDATA[   Picture.16 Note Entry – 1
+ Message
+Under the ‘Message’ tab, the use of the screen is shown.
+UTL04 My Messages
+Faculty Members can see the messages sent to them on this screen. At the same time, they can send messages to their students via this screen.
+MESSAGING – INCOMING MESSAGES
+Picture.32 My Messages
+MESSAGING – SENDING A NEW MESSAGE
+The instructor can communicate with the students/other students he/she advises through the system.
+ ]]></page><page Index="104" isMAC="true"><![CDATA[   MESSAGING – MESSAGES SENT
+Picture.33 My Messages 2
+ Picture.34 My Messages 3
+]]></page></pages></Search>

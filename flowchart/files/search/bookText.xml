@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?><Search><pages Count="8"><page Index="1" isMAC="true"><![CDATA[ ]]></page><page Index="2" isMAC="true"><![CDATA[   Front Desk
+Document
+Department Service
+    Document Registred by Editorial Management Departmant
+     Rectorate
+  Head of Dpartment/Center forwards the document to relevent section
+  Yes
+Is the dcoument in the scope of the Rectorate
+No
+Is the document academic
+Is answer necesseray
+Yes
+No
+Administrative Office
+        Head of Dpartment/Center forwards the document to relevent person
+Relevant section manager fullfill necesseray action
+     Related person fulfills the necessary action
+Prepare the documents
+      No
+Yes
+ Is answer for outside UNYT
+Yes
+No
+ Folder
+   Recorded as Incoming Recorded as ]]></page><page Index="3" isMAC="true"><![CDATA[Document by relevent department and send to related person/department
+Outgoing Document by Editorial management
+    ]]></page><page Index="4" isMAC="true"><![CDATA[  Programda ders atama esnasında danışman ekranına gelen desrler
+Önce alttan olanlar
+Sonra bölüm zorunlular
+Sonra bölüm seçimlik
+Sonra diğer seçimlik
+gpa göre kredi yükü uyarısı
+Taksit borcu uyarısı
+Mezun öğrenci uyarısı
+No
+No
+No
+Yes
+No
+Describe course type
+No
+Is the course Selective course?
+Bölüm seçimlik dururken fakülte üniversite seçimlik alabilirmi?
+Öğrenci ders zorluğuna bakarak alttan ders almayıp almaması gereken dersi alıyormu?
+Kayıt yapılırken önceliki alınması gereken dersler alınmışmı?
+  Courses
+        Is the course Failled course?
+Yes
+Is the course Misslng course?
+Yes
+Is the course pre-requird course?
+Yes
+Previous course passed?
+Course can not be taken
+Sosyal ders kredisi ekleyebilir uyarısı
+Is the course Copulsory course?
+Yes
+Yes
+         Düzenlemelerde olmayan indirim sözkonusu mu?
+Transkripte göre alınan dersler GPA ile uyumlumu?
+Finans kontrat bazlı bursu ve indirimleri düzgün hesaplamış mı?
+   Transfer var ise derslerin transkripte gözükmesi ve GPA hesaplaması
+dönem GPA hesaplaması
+Courses taken ETSC < 30
+alınan dersler ile yatırılan para doğrumu
+Course Record
+          Alınan derslerin ücreti doğru yatırılmış mı?
+      Courses taken ETSC<45
+Courses taken ETSC>45
+Eksik para yatırıp fazla ders almak mümkünmü
+                   Eksik kredi uyarısı
+GPA between 50-59 maximum 30 ETSC credits can be registered per semester
+GPA between 60-79 maximum 36 ETSC credits can be registered per semester (6 credits only for failedor missing courses)
+GPA between 80-89 maximum 40 ETSC credits can be registered per semester (10 credits only for failed or missing courses)
+GPA between 90-100 if the students has no falled course (additional advance course-Faculty Dean- Rectorate approval is needed.
+Finansa geldiğinde tahakkuk ile ödeme karşılaştırması
+iki dönemden fazla yatmayan ücrdet açıklmaas
+Kontrat bazlı hesaplama yapılmışmı uyarısı
+Burs hesaplaması
+ödeme tablosu ve gecikme durumu
+  ]]></page><page Index="5" isMAC="true"><![CDATA[ Departments request a new position
+    Manager allocates a new position
+Is budget sufficient
+No
+Yes
+   HR creates position description with basic information
+Finance department assign position on budget
+    Departmen chair approves the position description
+Dean reviews approves the position description
+HR approves the position description
+ Begin recruiment
+      Additional budget
+]]></page><page Index="6" isMAC="true"><![CDATA[      Student
+Student Affairs Office
+Sign to
+Student Contract?
+Yes
+Yes
+Student Yes Registration
+Form?
+Hangi kontrat olduğunu görelim ve ücretlendirme otomatik gelsin
+Derslerin uygun sıra ile verilmesi
+     Finance Department
+Clearance Form?
+Advisor
+Course Selection
+Record Office
+             No NoNo
+ No Payment proof documents
+Yes
+Pre-registration
+     Öğrenci otomatik ders seçimini yapsın danışman kontrol etsin
+Ücret otomatik yatsın finansman kontrol etsin
+Complete registration
+  Formlar online doldurulsun ve kayıt edilsin
+Cevaplar için belli günler verilebilir
+ ]]></page><page Index="7" isMAC="true"><![CDATA[  COURSE OFFERED
+  NEW STUDENT STD01 ADVISOR TEACHING PLAN
+IN CATALOG?
+  CATALOG NEW COURSE CRS01
+SELECT FROM CATALOG
+   COURSE DEFINITION CRS02
+IS THERE A
+TEACHING PLAN FOR THIS COURSE?
+    COURSE DEFINITION TEACHING PLAN CRS02
+  ACADEMIC YEAR COURSE DESCRIPTION CRS03 FEE SAVE
+OPEN THE COURSES ASSIGN ACADEMIC YEAR CRS03
+ ACADEMIC YEAR COURSE DESCRIPTION CRS03 FACULTY MEMBER SAVE
+ DETAILED SEARCH DT08 CIRRİCULUM DETAILS- TEACHING PLAN
+ CONTROL TEACHING PLANS
+ COURSE LOADING
+   NEW STUDENT?
+ASSIGN A CIRRICULUM TO STUDENTS STD12
+COURSE RENEWAL
+      SCHOLARSHIP INFO STD01
+    FEE SCHOLARSHIP INFO STD01
+     SCHOLARSHIP CALCULATION
+    EDUCATION FEE CALCULATION
+   PAYMENT AND INSTALLMENT
+   CREATE INSTALLMENT
+    CREATE PAYMENT REPORT
+   ]]></page><page Index="8" isMAC="true"><![CDATA[ PARAMETERS TEACHING PLAN DEF01 NEW116
+FACULTY DEPARTMENT ASSIGN TEACHING PLAN DEF11
+ OPEN THE ACADEMIC YEAR DEF01
+ ]]></page></pages></Search>
